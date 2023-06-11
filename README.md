@@ -1,6 +1,6 @@
 # Data Visualisation with Python 
 
-Free Class taught by Michael Currie
+Free Class taught by Michael Currie  (mcurrie@fling.asia)
 
 * Sponsored by [Resonance](https://www.resonance.careers) - Find your dream career in Thailand
 
